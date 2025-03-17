@@ -114,7 +114,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Luv-valecha&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luv-valecha" alt="luv-valecha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luv-valecha&theme=onedark" alt="luv-valecha" /></a> </p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Luv-valecha/count.svg" />
