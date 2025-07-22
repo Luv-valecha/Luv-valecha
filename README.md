@@ -117,6 +117,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luv-valecha&theme=onedark" alt="luv-valecha" /></a> </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Luv-valecha/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Luv-valecha&abbreviated=true&color=brightgreen" alt="Profile views" />
 </p>
 
