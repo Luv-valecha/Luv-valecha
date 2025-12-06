@@ -7,9 +7,6 @@
   <a href="https://linkedin.com/in/luvvalecha" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luvvalecha" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/luvvalecha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luvvalecha" height="30" width="40" />
-  </a>
   <a href="https://www.leetcode.com/luv_v" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luv_v" height="30" width="40" />
   </a>
@@ -109,12 +106,11 @@
   </p>
 <br>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Luv-valecha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Luv-valecha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Luv-valecha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luv-valecha&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/luv-valecha/github-trophies"><img src="https://github-trophies.vercel.app/?username=luv-valecha&theme=darkhub" alt="luv-valecha" /></a> </p>
+<p align="center"> <a href="https://github.com/luv-valecha/github-trophies"><img src="https://github-trophies.vercel.app/?username=luv-valecha&theme=darkhub&row=2&column=4" alt="luv-valecha" /></a> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luv-valecha&abbreviated=true&color=brightgreen" alt="Profile views" />
