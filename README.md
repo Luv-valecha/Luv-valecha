@@ -107,7 +107,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luv-valecha&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-streak-stats-sigma-teal.vercel.app/"><img src="https://github-readme-streak-stats-sigma-teal.vercel.app/?user=luv-valecha&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center"> <a href="https://github.com/luv-valecha/github-trophies"><img src="https://github-trophies.vercel.app/?username=luv-valecha&theme=darkhub&row=2&column=4" alt="luv-valecha" /></a> </p>
